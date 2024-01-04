@@ -44,7 +44,6 @@ const blog = () =>
                         </>
                     ))}
                     <div>
-                        <span class="badge bg-primary p-2 m-1">Beginner</span>
                         <span class="badge bg-success p-2 m-1">Intermediate</span>
                         <span class="badge bg-danger p-2 m-1">Advanced</span>
                     </div>

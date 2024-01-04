@@ -11,9 +11,9 @@ export const skills = [
         level: 'bg-success',
     },
     {
-        skill: 'Java',
+        skill: 'Big-Data with Python',
         percentage: 50,
-        level: 'bg-primary',
+        level: 'bg-success',
     },
     {
         skill: 'SQL',
@@ -36,6 +36,28 @@ export const skills = [
         level: 'bg-success',
     },
 
+
+
+]
+export const contact = [
+    {
+        icon: 'bi bi-telephone-fill',
+        title: 'Phone Number',
+        information: '+51 933203208' ,
+
+    },
+    {
+        icon: 'bi bi-github',
+        title: 'Github',
+        information: ' www.github.com/whatpasa' ,
+
+    },
+    {
+        icon: 'bi bi-envelope-arrow-up-fill',
+        title: 'E-mail',
+        information: 'fperez15424@gmail.com' ,
+
+    }
 
 
 ]

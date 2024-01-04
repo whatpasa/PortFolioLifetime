@@ -14,6 +14,13 @@ export const experience = [
         job: 'FullStack Developer',
 
     } ,
+    // {
+    //     locate: '1',
+    //     period: '2',
+    //     work: '3',
+    //     job: '4',
+
+    // }
 
 
 
