@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "",
+  "homepage": "https://whatpasa.github.io/PortFolioLifetime",
   "scripts": {
     "deploy": "npm run build && gh-pages -d out -b main",
     "dev": "next",
