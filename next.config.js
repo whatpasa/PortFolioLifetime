@@ -1,3 +1,4 @@
 module.exports ={
-    distDir: './out'
+    distDir: './out',
+    output: 'export'
 }
