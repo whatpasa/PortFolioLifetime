@@ -1,7 +1,9 @@
-const nextConfig ={
-    distDir: './out',
-    output: 'export'
-    reactStrictMode: true,
-}
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true,
+  images: {
+    domains: ["whatpasa.github.io"],
+  },
+};
 
-module.export = nextConfig; 
+module.exports = nextConfig
